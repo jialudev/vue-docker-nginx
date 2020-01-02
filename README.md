@@ -1,5 +1,7 @@
 # vue-docker-nginx
 
+> 运行前确保本地安装了Docker、Node>8.0、Npm
+
 > A Vue.js project
 
 ## 将vue项目配合nginx在docker中打包运行
