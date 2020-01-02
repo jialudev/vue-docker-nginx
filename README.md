@@ -1,8 +1,8 @@
 # vue-docker-nginx
 
 > 运行前确保本地安装了Docker、Node>8.0、Npm
-window 要装docker需安装docker-toolbox
-https://mirrors.aliyun.com/docker-toolbox/windows/docker-toolbox/
+> window 要装docker需安装docker-toolbox
+> https://mirrors.aliyun.com/docker-toolbox/windows/docker-toolbox/
 
 > A Vue.js project
 
