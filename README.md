@@ -28,4 +28,4 @@ docker run -p 4000:8080 -d vue-docker-nginx
 
 现在就可以在本机游览器查看在docker中启动的项目了。http://localhost:4000/ 
 
-![Image](https://raw.githubusercontent.com/Mary5haw/vue-docker-nginx/master/img/img1.png)
+![Image](https://github.com/Mary5haw/vue-docker-nginx/blob/master/img/img1.png)
